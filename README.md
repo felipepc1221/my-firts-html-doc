@@ -7,4 +7,4 @@
    </head>
    <body>
   <p> Esse é o meu primeiro html, por favor, <strong> funcione </strong></p>
-    <p> link do <a href=https://www.instagram.com/felipepc1212/ title=pode clicar target="_blanck"> meu instagram </a>
+    <p> link do <a href=https://www.instagram.com/felipepc1212/ title=pode clicar target="_parent"> meu instagram </a>
